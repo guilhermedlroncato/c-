@@ -12,6 +12,7 @@ namespace aula_matriz
             Console.WriteLine(mat.Rank);
             Console.WriteLine(mat.GetLength(0)); //qtde linhas
             Console.WriteLine(mat.GetLength(1)); //qtde colunas
+            Console.Write("Matriz");
         }
     }
 }
