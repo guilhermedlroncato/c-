@@ -51,7 +51,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aula_matriz", "..\aula_matr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exercicio_matriz", "..\exercicio_matriz\exercicio_matriz.csproj", "{8F321AE7-3FFE-42B4-A6F7-5722042E2E14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio_matriz_posicao", "..\exercicio_matriz_posicao\exercicio_matriz_posicao.csproj", "{E9FB369C-8970-4BE5-9B5D-64DDB222C8B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exercicio_matriz_posicao", "..\exercicio_matriz_posicao\exercicio_matriz_posicao.csproj", "{E9FB369C-8970-4BE5-9B5D-64DDB222C8B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula_enumeracoes", "..\aula_enumeracoes\aula_enumeracoes.csproj", "{7E2A1B3D-9F2A-4A12-B81F-C0D4B4C96D71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula_composicao_trabalhador", "..\aula_composicao_trabalhador\aula_composicao_trabalhador.csproj", "{CDC447B0-F9B9-4BC2-B072-271E4D69611F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +151,14 @@ Global
 		{E9FB369C-8970-4BE5-9B5D-64DDB222C8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9FB369C-8970-4BE5-9B5D-64DDB222C8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9FB369C-8970-4BE5-9B5D-64DDB222C8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E2A1B3D-9F2A-4A12-B81F-C0D4B4C96D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2A1B3D-9F2A-4A12-B81F-C0D4B4C96D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2A1B3D-9F2A-4A12-B81F-C0D4B4C96D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2A1B3D-9F2A-4A12-B81F-C0D4B4C96D71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDC447B0-F9B9-4BC2-B072-271E4D69611F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDC447B0-F9B9-4BC2-B072-271E4D69611F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDC447B0-F9B9-4BC2-B072-271E4D69611F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDC447B0-F9B9-4BC2-B072-271E4D69611F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -174,6 +186,8 @@ Global
 		{120A064A-F66E-4939-ACBB-71DED800EB84} = {BB3C99D2-3502-4FF0-BA64-55E74B0665F9}
 		{8F321AE7-3FFE-42B4-A6F7-5722042E2E14} = {43107D8A-03F8-4FF3-8AD0-83CA5B8B9533}
 		{E9FB369C-8970-4BE5-9B5D-64DDB222C8B7} = {43107D8A-03F8-4FF3-8AD0-83CA5B8B9533}
+		{7E2A1B3D-9F2A-4A12-B81F-C0D4B4C96D71} = {BB3C99D2-3502-4FF0-BA64-55E74B0665F9}
+		{CDC447B0-F9B9-4BC2-B072-271E4D69611F} = {BB3C99D2-3502-4FF0-BA64-55E74B0665F9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BB49E8B8-2DB5-4504-AB0B-05EBA1C68EEE}
