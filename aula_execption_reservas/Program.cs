@@ -39,6 +39,10 @@ namespace aula_execption_reservas
             {
                 Console.WriteLine("Format error: " + e.Message);
             }
+            catch (Exception e)
+            {
+                Console.WriteLine("Error Exception: " + e.Message);
+            }
         }
     }
 }
