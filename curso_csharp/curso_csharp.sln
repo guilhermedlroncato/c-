@@ -67,9 +67,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exercicio_herenca_polimorfi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exercicio_heranca_etiquetas", "..\exercicio_heranca_etiquetas\exercicio_heranca_etiquetas.csproj", "{71EB7F50-DE00-4911-9073-AC03D6C44FF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio_abstract_herencas", "..\exercicio_abstract_herencas\exercicio_abstract_herencas.csproj", "{0EAC45B2-07F5-49AC-8380-594050A84416}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exercicio_abstract_herencas", "..\exercicio_abstract_herencas\exercicio_abstract_herencas.csproj", "{0EAC45B2-07F5-49AC-8380-594050A84416}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio_abstract_heranca_contribuicao", "..\exercicio_abstract_heranca_contribuicao\exercicio_abstract_heranca_contribuicao.csproj", "{12097873-40EA-4655-980D-E3086845F7BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exercicio_abstract_heranca_contribuicao", "..\exercicio_abstract_heranca_contribuicao\exercicio_abstract_heranca_contribuicao.csproj", "{12097873-40EA-4655-980D-E3086845F7BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula_execption_reservas", "..\aula_execption_reservas\aula_execption_reservas.csproj", "{249EE95D-481B-4DEC-B6B4-D66C5D1D8996}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,10 @@ Global
 		{12097873-40EA-4655-980D-E3086845F7BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12097873-40EA-4655-980D-E3086845F7BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12097873-40EA-4655-980D-E3086845F7BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{249EE95D-481B-4DEC-B6B4-D66C5D1D8996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{249EE95D-481B-4DEC-B6B4-D66C5D1D8996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{249EE95D-481B-4DEC-B6B4-D66C5D1D8996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{249EE95D-481B-4DEC-B6B4-D66C5D1D8996}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -237,6 +243,7 @@ Global
 		{71EB7F50-DE00-4911-9073-AC03D6C44FF7} = {43107D8A-03F8-4FF3-8AD0-83CA5B8B9533}
 		{0EAC45B2-07F5-49AC-8380-594050A84416} = {43107D8A-03F8-4FF3-8AD0-83CA5B8B9533}
 		{12097873-40EA-4655-980D-E3086845F7BF} = {43107D8A-03F8-4FF3-8AD0-83CA5B8B9533}
+		{249EE95D-481B-4DEC-B6B4-D66C5D1D8996} = {BB3C99D2-3502-4FF0-BA64-55E74B0665F9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BB49E8B8-2DB5-4504-AB0B-05EBA1C68EEE}
