@@ -77,17 +77,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exercicio_exception_banco",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aula_arquivos", "..\aula_arquivos\aula_arquivos.csproj", "{BE93A4F1-2B10-4D40-A53E-7B01C90D3455}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula_arquivo_streamreader", "..\aula_arquivo_streamreadr\aula_arquivo_streamreader.csproj", "{9C9AE43E-464D-4930-8C7D-46BDB58B4803}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aula_arquivo_streamreader", "..\aula_arquivo_streamreadr\aula_arquivo_streamreader.csproj", "{9C9AE43E-464D-4930-8C7D-46BDB58B4803}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula_arquivo_blockusing", "..\aula_arquivo_blockusing\aula_arquivo_blockusing.csproj", "{C694C279-1E0D-4D04-A049-A9B241FA66BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aula_arquivo_blockusing", "..\aula_arquivo_blockusing\aula_arquivo_blockusing.csproj", "{C694C279-1E0D-4D04-A049-A9B241FA66BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula_arquivo_streamwriter", "..\aula_arquivo_streamwriter\aula_arquivo_streamwriter.csproj", "{94D8A537-5330-41ED-BB89-529B7CB5B4D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aula_arquivo_streamwriter", "..\aula_arquivo_streamwriter\aula_arquivo_streamwriter.csproj", "{94D8A537-5330-41ED-BB89-529B7CB5B4D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula_arquivo_directs", "..\aula_arquivo_directs\aula_arquivo_directs.csproj", "{C1A2A63C-9208-4FD9-AC98-85B2A803065B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aula_arquivo_directs", "..\aula_arquivo_directs\aula_arquivo_directs.csproj", "{C1A2A63C-9208-4FD9-AC98-85B2A803065B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula_arquivo_path", "..\aula_arquivo_path\aula_arquivo_path.csproj", "{57DD0A0E-158E-4B13-8675-A3B9A1652608}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aula_arquivo_path", "..\aula_arquivo_path\aula_arquivo_path.csproj", "{57DD0A0E-158E-4B13-8675-A3B9A1652608}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio_arquivo", "..\exercicio_arquivo\exercicio_arquivo.csproj", "{45C187A5-6654-4F4C-9C31-8CAB9E7352F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exercicio_arquivo", "..\exercicio_arquivo\exercicio_arquivo.csproj", "{45C187A5-6654-4F4C-9C31-8CAB9E7352F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula_interface", "..\aula_interface\aula_interface.csproj", "{D9516228-77AC-4ABF-A62C-F8C304E582DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -255,6 +257,10 @@ Global
 		{45C187A5-6654-4F4C-9C31-8CAB9E7352F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45C187A5-6654-4F4C-9C31-8CAB9E7352F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45C187A5-6654-4F4C-9C31-8CAB9E7352F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9516228-77AC-4ABF-A62C-F8C304E582DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9516228-77AC-4ABF-A62C-F8C304E582DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9516228-77AC-4ABF-A62C-F8C304E582DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9516228-77AC-4ABF-A62C-F8C304E582DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -300,6 +306,7 @@ Global
 		{C1A2A63C-9208-4FD9-AC98-85B2A803065B} = {BB3C99D2-3502-4FF0-BA64-55E74B0665F9}
 		{57DD0A0E-158E-4B13-8675-A3B9A1652608} = {BB3C99D2-3502-4FF0-BA64-55E74B0665F9}
 		{45C187A5-6654-4F4C-9C31-8CAB9E7352F0} = {43107D8A-03F8-4FF3-8AD0-83CA5B8B9533}
+		{D9516228-77AC-4ABF-A62C-F8C304E582DC} = {BB3C99D2-3502-4FF0-BA64-55E74B0665F9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BB49E8B8-2DB5-4504-AB0B-05EBA1C68EEE}
