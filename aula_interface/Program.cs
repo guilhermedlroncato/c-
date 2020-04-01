@@ -26,7 +26,7 @@ namespace aula_interface
 
             CarRental carRental = new CarRental(start, finish, new Vehicle(carmodel));
 
-            RentalService rentalService = new RentalService(hour, day);
+            RentalService rentalService = new RentalService(hour, day, new BrazilTaxService());
             rentalService.ProcessInvoice(carRental);
 
             Console.WriteLine("INVOICE");
